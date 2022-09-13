@@ -1,0 +1,4 @@
+Message{emailAddress='Ezio@creed.com', sender='anton2801z@gmail.com', subject='Что-то', body='Что-то подробнее'}
+
+Message{emailAddress='Dovakin@skyrim.org', sender='anton2801z@gmail.com', subject='Что-то', body='Что-то подробнее'}
+essage{emailAddress='Nerevarin@morrow.ind', sender='anton2801z@gmail.com', subject='Что-то', body='Что-то подробнее'}
